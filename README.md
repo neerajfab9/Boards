@@ -1,0 +1,2 @@
+# Boards
+My Django applicattion
